@@ -194,7 +194,7 @@
     }
 
     var descriptor = {
-        "blockSpecs": [
+        "blocks": [
             ["r", "%m.inapins 의 센서값", "aread", "저항-A" ],
             ["b", "센서의 %m.indpins", "dread", "버튼눌림"],
             [" ", "motor %m.motors on for %n secs", "msecs", "A", 1 ],
